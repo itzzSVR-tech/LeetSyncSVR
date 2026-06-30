@@ -7,7 +7,7 @@ Welcome to **LeetSyncSVR** — my personal repository for tracking and storing d
 ## 📌 About
 
 * 📅 Solving LeetCode problems **daily**
-* 💻 Language used: **Python** (primary)
+* 💻 Language used: **Java** (primary)
 * 🎯 Focus: Data Structures & Algorithms
 * 📈 Goal: Strengthen problem-solving skills and prepare for coding interviews
 
